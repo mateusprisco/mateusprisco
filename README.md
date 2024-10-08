@@ -1,5 +1,6 @@
-## Hi there 👋
-Eu sou o Mateus Prisco
+Mateus Prisco
+
+Minha fraqueza é a minha maior Riqueza
 
 [![Youtube](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://www.youtube.com/@BRKsEDU)
 
