@@ -29,5 +29,4 @@ Olá sou o Mateus Prisco tenho 19 anos, iniciei o curso de administração de re
 
 ![DISCORD](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
-## Sistemas Operacionais
 
